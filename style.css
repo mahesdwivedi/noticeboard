@@ -1,3 +1,4 @@
+
 .button {
 background-color: #ffffcc;
 color: black;
@@ -60,4 +61,11 @@ transform: scale(0.5);
 .navbar a:hover{
     background-color: #A9A9A9;
     color: black;
+}
+
+h1{
+  color: #7c795d;
+  font-size: 30px;
+  font-weight: 250px;
+  letter-spacing: -1px;
 }
