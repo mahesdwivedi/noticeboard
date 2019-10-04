@@ -22,13 +22,6 @@ transform: scale(0.5);
 .logo {
     position: relative;
 }
-#cseLogo img {
-    position: absolute;
-    top: 15px;
-    right: 20px;
-    height:100px;
-    width: 150px;
-}
 #cetLogo img {
     position: absolute;
     top: 0px;
@@ -44,6 +37,8 @@ transform: scale(0.5);
     background-color: #333;
     font-family: Arial, Helvetica, sans-serif;
     radius:10px;
+    width: 100%;
+    height: auto;
 
 }
 
